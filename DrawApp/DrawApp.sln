@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawAppUI", "DrawAppUI\DrawAppUI.csproj", "{C21CBF71-0B9E-4150-9C96-B61F115729DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DrawAppUI", "DrawAppUI\DrawAppUI.csproj", "{C21CBF71-0B9E-4150-9C96-B61F115729DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawingAppUI", "DrawingAppUI\DrawingAppUI.csproj", "{D883BA49-5C01-4455-8B5F-E123E1A72124}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C21CBF71-0B9E-4150-9C96-B61F115729DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C21CBF71-0B9E-4150-9C96-B61F115729DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C21CBF71-0B9E-4150-9C96-B61F115729DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D883BA49-5C01-4455-8B5F-E123E1A72124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D883BA49-5C01-4455-8B5F-E123E1A72124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D883BA49-5C01-4455-8B5F-E123E1A72124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D883BA49-5C01-4455-8B5F-E123E1A72124}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

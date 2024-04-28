@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+0rh2Y/w8+bKyZ8+Yrs3+tP2m9C3JlnAYhnZj3hYF+Xy3R2T1Fj4gPxWyzNbmkAlYowVsJF/q84cZ1+XXNT9Pg==",
+  "dgSpecHash": "4ElxJqG1FpvAbGgHLAtL1UcwwOktYWCOkctCOTMRnY8x7yOMBdt9fJkuetHztID35TDkwiMbEWnyh9DTs6ewgw==",
   "success": true,
   "projectFilePath": "R:\\GITHUB\\DrawApp\\DrawApp\\DrawAppUI\\DrawAppUI.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\excalibur\\.nuget\\packages\\extended.wpf.toolkit\\4.6.0\\extended.wpf.toolkit.4.6.0.nupkg.sha512"
+  ],
   "logs": []
 }

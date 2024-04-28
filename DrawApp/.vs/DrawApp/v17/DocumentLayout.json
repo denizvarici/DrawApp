@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "R:\\GITHUB\\DrawApp\\DrawApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C21CBF71-0B9E-4150-9C96-B61F115729DC}|DrawAppUI\\DrawAppUI.csproj|r:\\github\\drawapp\\drawapp\\drawappui\\paintwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C21CBF71-0B9E-4150-9C96-B61F115729DC}|DrawAppUI\\DrawAppUI.csproj|solutionrelative:drawappui\\paintwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C21CBF71-0B9E-4150-9C96-B61F115729DC}|DrawAppUI\\DrawAppUI.csproj|r:\\github\\drawapp\\drawapp\\drawappui\\paintwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{C21CBF71-0B9E-4150-9C96-B61F115729DC}|DrawAppUI\\DrawAppUI.csproj|solutionrelative:drawappui\\paintwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C21CBF71-0B9E-4150-9C96-B61F115729DC}|DrawAppUI\\DrawAppUI.csproj|r:\\github\\drawapp\\drawapp\\drawappui\\menuwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C21CBF71-0B9E-4150-9C96-B61F115729DC}|DrawAppUI\\DrawAppUI.csproj|solutionrelative:drawappui\\menuwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
@@ -22,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,39 +22,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PaintWindow.xaml.cs",
-              "DocumentMoniker": "R:\\GITHUB\\DrawApp\\DrawApp\\DrawAppUI\\PaintWindow.xaml.cs",
-              "RelativeDocumentMoniker": "DrawAppUI\\PaintWindow.xaml.cs",
-              "ToolTip": "R:\\GITHUB\\DrawApp\\DrawApp\\DrawAppUI\\PaintWindow.xaml.cs",
-              "RelativeToolTip": "DrawAppUI\\PaintWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T09:46:18.111Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PaintWindow.xaml",
-              "DocumentMoniker": "R:\\GITHUB\\DrawApp\\DrawApp\\DrawAppUI\\PaintWindow.xaml",
-              "RelativeDocumentMoniker": "DrawAppUI\\PaintWindow.xaml",
-              "ToolTip": "R:\\GITHUB\\DrawApp\\DrawApp\\DrawAppUI\\PaintWindow.xaml",
-              "RelativeToolTip": "DrawAppUI\\PaintWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-28T08:42:02.349Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "MenuWindow.xaml",
               "DocumentMoniker": "R:\\GITHUB\\DrawApp\\DrawApp\\DrawAppUI\\MenuWindow.xaml",
               "RelativeDocumentMoniker": "DrawAppUI\\MenuWindow.xaml",
               "ToolTip": "R:\\GITHUB\\DrawApp\\DrawApp\\DrawAppUI\\MenuWindow.xaml",
               "RelativeToolTip": "DrawAppUI\\MenuWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-28T08:41:51.266Z",
+              "WhenOpened": "2024-04-28T16:44:53.505Z",
               "EditorCaption": ""
             }
           ]
