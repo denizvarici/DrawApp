@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:DrawAppUI"
         mc:Ignorable="d"
-        Title="MenuWindow" Height="633" Width="104" WindowStyle="None" Topmost="True" ResizeMode="NoResize" MouseLeftButtonDown="Window_MouseLeftButtonDown">
+        Title="MenuWindow" Height="633" Width="104" WindowStyle="None" Topmost="True" ResizeMode="NoResize" MouseLeftButtonDown="Window_MouseLeftButtonDown" Icon="/DV.png">
     <Grid>
         <Button x:Name="btnCursor" HorizontalAlignment="Left" Margin="19,26,0,0" VerticalAlignment="Top" Height="71" Width="70" Click="btnCursor_Click" Background="#FFDDDDDD" BorderBrush="White">
             <Image Source="Images/cursor.png" />
@@ -25,14 +25,14 @@
         <Button x:Name="btnExit" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="-0.19,0.265" Width="27" Click="btnExit_Click" Background="White" BorderBrush="White" Margin="77,0,0,0">
             <Image Source="Images/x.png" Height="18" Width="24"/>
         </Button>
-        <Button x:Name="btnColorPalette" HorizontalAlignment="Left" Margin="17,507,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.591,0.541" Click="Button_Click" Width="70" Height="62" BorderBrush="White">
-            <Image Source="Images/palette.jpg" Height="51" Width="55" RenderTransformOrigin="0.536,0.5" />
+        <Button x:Name="btnColorPalette" HorizontalAlignment="Left" Margin="17,507,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.591,0.541" Click="Button_Click" Width="70" Height="62" BorderBrush="White" Background="White">
+            <Image Source="Images/palette.jpg" Height="59" Width="64" RenderTransformOrigin="0.536,0.5" />
         </Button>
         <RadioButton x:Name="rbtnThickness_1" Content="" HorizontalAlignment="Left" Margin="4,210,0,0" VerticalAlignment="Top" Height="14" Width="14" FontWeight="Bold" Padding="-2,-2,-2,-2" Checked="rbtnThickness_1_Checked"/>
         <RadioButton x:Name="rbtnThickness_3" Content="" HorizontalAlignment="Left" Margin="23,209,0,0" VerticalAlignment="Top" Height="20" Width="16" BorderThickness="2,2,2,2" Checked="rbtnThickness_3_Checked"/>
         <RadioButton x:Name="rbtnThickness_5" Content="" HorizontalAlignment="Left" Margin="44,206,0,0" VerticalAlignment="Top" BorderThickness="5,5,5,5" Height="23" Width="22" IsChecked="False" Checked="rbtnThickness_5_Checked"/>
         <RadioButton x:Name="rbtnThickness_10" Content="" HorizontalAlignment="Left" Margin="71,203,0,0" VerticalAlignment="Top" BorderThickness="8,8,8,8" Height="32" Width="31" IsChecked="False" Checked="rbtnThickness_10_Checked"/>
-        <Label Content="DV" HorizontalAlignment="Center" VerticalAlignment="Top" FontWeight="Bold" FontSize="15" Height="26" Background="White" Margin="0,-4,0,0"/>
+        <Label Content="DV-Pen" HorizontalAlignment="Left" VerticalAlignment="Top" FontWeight="Bold" FontSize="15" Height="26" Background="White" Margin="19,-4,0,0"/>
         <Button x:Name="btnGoWebsite" Content="www.denizvarici.com.tr" HorizontalAlignment="Center" Margin="0,603,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.291,0.561" Width="98" FontSize="8" BorderBrush="Black" Background="White" Click="btnGoWebsite_Click"/>
 
     </Grid>

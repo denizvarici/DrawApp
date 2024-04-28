@@ -9,6 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="DV.png" />
     <None Remove="Images\cursor.png" />
     <None Remove="Images\eraser.png" />
     <None Remove="Images\palette.jpg" />
@@ -24,6 +25,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Resource Include="DV.png" />
     <Resource Include="Images\cursor.png" />
     <Resource Include="Images\eraser.png" />
     <Resource Include="Images\palette.jpg" />

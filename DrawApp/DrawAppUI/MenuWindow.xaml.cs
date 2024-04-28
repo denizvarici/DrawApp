@@ -124,6 +124,7 @@ namespace DrawAppUI
                 Width = 200,
                 ResizeMode = ResizeMode.NoResize,
                 WindowStyle = WindowStyle.None,
+                Background = Brushes.OrangeRed,
                 WindowStartupLocation = System.Windows.WindowStartupLocation.CenterScreen,
       
             };
