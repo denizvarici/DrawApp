@@ -5,7 +5,9 @@ VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DrawAppUI", "DrawAppUI\DrawAppUI.csproj", "{C21CBF71-0B9E-4150-9C96-B61F115729DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawingAppUI", "DrawingAppUI\DrawingAppUI.csproj", "{D883BA49-5C01-4455-8B5F-E123E1A72124}"
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DV-PenSetup", "DV-PenSetup\DV-PenSetup.vdproj", "{A62CBDD9-7EA9-475C-8248-271951F99571}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{B5B2E2B0-0D70-4620-B0FC-B073A08B546A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +19,12 @@ Global
 		{C21CBF71-0B9E-4150-9C96-B61F115729DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C21CBF71-0B9E-4150-9C96-B61F115729DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C21CBF71-0B9E-4150-9C96-B61F115729DC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D883BA49-5C01-4455-8B5F-E123E1A72124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D883BA49-5C01-4455-8B5F-E123E1A72124}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D883BA49-5C01-4455-8B5F-E123E1A72124}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D883BA49-5C01-4455-8B5F-E123E1A72124}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A62CBDD9-7EA9-475C-8248-271951F99571}.Debug|Any CPU.ActiveCfg = Debug
+		{A62CBDD9-7EA9-475C-8248-271951F99571}.Release|Any CPU.ActiveCfg = Release
+		{B5B2E2B0-0D70-4620-B0FC-B073A08B546A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5B2E2B0-0D70-4620-B0FC-B073A08B546A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5B2E2B0-0D70-4620-B0FC-B073A08B546A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5B2E2B0-0D70-4620-B0FC-B073A08B546A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

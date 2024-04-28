@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DrawAppUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bc6e6007d9adbde0416b253a606cb4345d862b9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17738a9e21bb5e5ee0c29e632fcbdf5b96966cfd")]
 [assembly: System.Reflection.AssemblyProductAttribute("DrawAppUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DrawAppUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
