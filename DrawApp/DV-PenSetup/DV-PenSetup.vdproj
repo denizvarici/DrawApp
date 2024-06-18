@@ -21,7 +21,7 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_AD92449A37084AFFBE42A0923D410E38"
+        "MsmKey" = "8:_B6371E7821CD4AF7BCF714AF9C6BE2BE"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -50,6 +50,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.7.2"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.7.2 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.7.2"
+                    }
+                }
             }
         }
         "Release"
@@ -74,6 +82,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.7.2"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.7.2 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.7.2"
+                    }
+                }
             }
         }
     }
@@ -303,30 +319,16 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_622B6F6A05634C8B90873D88E39C6E33"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_572161A5D8AF4C42926C3F810C52A3C1"
             {
-            "Name" = "8:DV-PEN"
+            "Name" = "8:DVPEN"
             "Arguments" = "8:"
             "Description" = "8:"
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_AD92449A37084AFFBE42A0923D410E38"
+            "Target" = "8:_B6371E7821CD4AF7BCF714AF9C6BE2BE"
             "Folder" = "8:_C8785AA6761847F9AC1C2C84D0412F9F"
-            "WorkingFolder" = "8:_8DA29B0CE54747728012EB7F904AE99C"
-            "Icon" = "8:_5BD8C57222CE4B65BC795CC8543A32FB"
-            "Feature" = "8:"
-            }
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_88F9D25BD398479D82E19A2933A99C18"
-            {
-            "Name" = "8:DV-PEN"
-            "Arguments" = "8:"
-            "Description" = "8:"
-            "ShowCmd" = "3:1"
-            "IconIndex" = "3:0"
-            "Transitive" = "11:FALSE"
-            "Target" = "8:_AD92449A37084AFFBE42A0923D410E38"
-            "Folder" = "8:_2F78296777EB4DBBBADA821DC8BF6FCE"
             "WorkingFolder" = "8:_8DA29B0CE54747728012EB7F904AE99C"
             "Icon" = "8:_5BD8C57222CE4B65BC795CC8543A32FB"
             "Feature" = "8:"
@@ -730,7 +732,7 @@
         }
         "ProjectOutput"
         {
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_AD92449A37084AFFBE42A0923D410E38"
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_B6371E7821CD4AF7BCF714AF9C6BE2BE"
             {
             "SourcePath" = "8:..\\DrawAppUI\\obj\\Debug\\net6.0-windows\\apphost.exe"
             "TargetName" = "8:"

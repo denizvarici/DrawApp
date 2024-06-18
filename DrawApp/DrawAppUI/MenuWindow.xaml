@@ -19,7 +19,7 @@
         <Button x:Name="btnClearAll" HorizontalAlignment="Left" VerticalAlignment="Top" Height="66" Width="70" Click="btnClearAll_Click" Margin="17,340,0,0" BorderBrush="White">
             <Image Source="Images/trash.png" />
         </Button>
-        <Button x:Name="btnScreenShot" HorizontalAlignment="Left" VerticalAlignment="Top" Height="70" Width="70" Margin="17,423,0,0" BorderBrush="White" Click="btnScreenShot_Click">
+        <Button x:Name="btnScreenShot" HorizontalAlignment="Left" VerticalAlignment="Top" Height="70" Width="70" Margin="17,423,0,0" BorderBrush="White">
             <Image Source="Images/screenshot.png" />
         </Button>
         <Button x:Name="btnExit" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="-0.19,0.265" Width="27" Click="btnExit_Click" Background="White" BorderBrush="White" Margin="77,0,0,0">

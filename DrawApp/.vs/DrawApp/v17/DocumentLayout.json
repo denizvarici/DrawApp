@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "R:\\GITHUB\\DrawApp\\DrawApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C21CBF71-0B9E-4150-9C96-B61F115729DC}|DrawAppUI\\DrawAppUI.csproj|r:\\github\\drawapp\\drawapp\\drawappui\\menuwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{C21CBF71-0B9E-4150-9C96-B61F115729DC}|DrawAppUI\\DrawAppUI.csproj|solutionrelative:drawappui\\menuwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C21CBF71-0B9E-4150-9C96-B61F115729DC}|DrawAppUI\\DrawAppUI.csproj|r:\\github\\drawapp\\drawapp\\drawappui\\menuwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C21CBF71-0B9E-4150-9C96-B61F115729DC}|DrawAppUI\\DrawAppUI.csproj|solutionrelative:drawappui\\menuwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C21CBF71-0B9E-4150-9C96-B61F115729DC}|DrawAppUI\\DrawAppUI.csproj|r:\\github\\drawapp\\drawapp\\drawappui\\drawappui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C21CBF71-0B9E-4150-9C96-B61F115729DC}|DrawAppUI\\DrawAppUI.csproj|solutionrelative:drawappui\\drawappui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{C21CBF71-0B9E-4150-9C96-B61F115729DC}|DrawAppUI\\DrawAppUI.csproj|r:\\github\\drawapp\\drawapp\\drawappui\\menuwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{C21CBF71-0B9E-4150-9C96-B61F115729DC}|DrawAppUI\\DrawAppUI.csproj|solutionrelative:drawappui\\menuwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,40 +26,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MenuWindow.xaml.cs",
               "DocumentMoniker": "R:\\GITHUB\\DrawApp\\DrawApp\\DrawAppUI\\MenuWindow.xaml.cs",
               "RelativeDocumentMoniker": "DrawAppUI\\MenuWindow.xaml.cs",
               "ToolTip": "R:\\GITHUB\\DrawApp\\DrawApp\\DrawAppUI\\MenuWindow.xaml.cs",
               "RelativeToolTip": "DrawAppUI\\MenuWindow.xaml.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAqwLEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T17:44:20.372Z",
+              "WhenOpened": "2024-04-28T18:03:42.566Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MenuWindow.xaml",
               "DocumentMoniker": "R:\\GITHUB\\DrawApp\\DrawApp\\DrawAppUI\\MenuWindow.xaml",
               "RelativeDocumentMoniker": "DrawAppUI\\MenuWindow.xaml",
               "ToolTip": "R:\\GITHUB\\DrawApp\\DrawApp\\DrawAppUI\\MenuWindow.xaml",
               "RelativeToolTip": "DrawAppUI\\MenuWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-28T17:44:16.819Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DrawAppUI",
-              "DocumentMoniker": "R:\\GITHUB\\DrawApp\\DrawApp\\DrawAppUI\\DrawAppUI.csproj",
-              "RelativeDocumentMoniker": "DrawAppUI\\DrawAppUI.csproj",
-              "ToolTip": "R:\\GITHUB\\DrawApp\\DrawApp\\DrawAppUI\\DrawAppUI.csproj",
-              "RelativeToolTip": "DrawAppUI\\DrawAppUI.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-28T17:44:14.187Z",
+              "WhenOpened": "2024-04-28T18:03:33.807Z",
               "EditorCaption": ""
             }
           ]

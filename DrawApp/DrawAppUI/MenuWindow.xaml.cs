@@ -175,19 +175,7 @@ namespace DrawAppUI
 
         #endregion
         #region ekran fotografı (hard)
-        [DllImport("user32.dll")]
-        public static extern void keybd_event(byte bVk, byte bScan, uint dwFlags, IntPtr dwExtraInfo);
-
-        private const byte VK_SNAPSHOT = 0x2C; // Print Screen tuşunun sanal tuş kodu
-
-        private const int KEYEVENTF_EXTENDEDKEY = 0x0001; // Tuş uzatıldı
-        private const int KEYEVENTF_KEYUP = 0x0002; // Tuş serbest bırakıldı
-        private void btnScreenShot_Click(object sender, RoutedEventArgs e)
-        {
-            // Print Screen tuşuna basılmış gibi davran
-            keybd_event(VK_SNAPSHOT, 0, KEYEVENTF_EXTENDEDKEY, IntPtr.Zero); // Tuşa basıldığını simüle et
-            keybd_event(VK_SNAPSHOT, 0, KEYEVENTF_EXTENDEDKEY | KEYEVENTF_KEYUP, IntPtr.Zero); // Tuşu serbest bırak
-        }
+        
         #endregion
 
         private void Window_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
